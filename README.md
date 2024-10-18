@@ -10,6 +10,12 @@ Buscamos predecir la tasa de cancelación de los clientes de una empresa de tele
 
 El equipo de marketing de Interconnect ha recopilado algunos de los datos personales de sus clientes, incluyendo información sobre sus planes y contratos.
 # Habilidades tecnicas
+-	Pandas
+-	Numpy
+-	Matplotlib
+-	Sklearn
+-	Scikit-learn
+
 
 # Conclusión General
 En nuestro proyecto, desarrollamos un modelo para predecir la cancelación de clientes con una precisión del 80%, lo que significa que, en general, el modelo acierta en el 80% de los casos.
