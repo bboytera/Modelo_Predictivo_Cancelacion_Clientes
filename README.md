@@ -9,6 +9,15 @@ de la tasa de cancelación de clientes de una empresa de telecomunicaciones (Int
 Buscamos predecir la tasa de cancelación de los clientes de una empresa de telecomunicaciones llamada Interconnect para anticiparse a posibles bajas. Con esta información; la empresa podrá ofrecer promociones y planes personalizados a los usuarios que muestren señales de querer cancelar sus servicios. Para ello, se han recopilado datos personales y de suscripción de los clientes, lo que permitirá el análisis para desarrollar modelos predictivos que optimicen las estrategias de retención."
 
 El equipo de marketing de Interconnect ha recopilado algunos de los datos personales de sus clientes, incluyendo información sobre sus planes y contratos.
+
+# Descripción de los datos
+Los datos consisten en archivos obtenidos de diferentes fuentes:
+
+- contract.csv — información del contrato;
+- personal.csv — datos personales del cliente;
+- internet.csv — información sobre los servicios de Internet;
+- phone.csv — información sobre los servicios telefónicos.
+En cada archivo, la columna customerID (ID de cliente) contiene un código único asignado a cada cliente. La información del contrato es válida a partir del 1 de febrero de 2020.
 # Habilidades técnicas
 -	Pandas
 -	Numpy
