@@ -19,6 +19,7 @@ Los datos consisten en archivos obtenidos de diferentes fuentes:
 - phone.csv — información sobre los servicios telefónicos.
 En cada archivo, la columna customerID (ID de cliente) contiene un código único asignado a cada cliente. La información del contrato es válida a partir del 1 de febrero de 2020.
 # Habilidades técnicas
+- Python
 -	Pandas
 -	Numpy
 -	Matplotlib
