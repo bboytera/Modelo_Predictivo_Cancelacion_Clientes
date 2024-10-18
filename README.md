@@ -13,7 +13,6 @@ El equipo de marketing de Interconnect ha recopilado algunos de los datos person
 -	Pandas
 -	Numpy
 -	Matplotlib
--	Sklearn
 -	Scikit-learn
 
 
