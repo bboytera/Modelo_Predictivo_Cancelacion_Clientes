@@ -1,10 +1,10 @@
-# 📌PROYECTO
+# 📌Modelo predictivo de cancelación de clientes
   
-Prediccion
+Predicción
 de la tasa de cancelación de clientes de una empresa de telecomunicaciones (Interconnect)
 
 
-# Introduccion
+# Introducción
   
 Buscamos predecir la tasa de cancelación de los clientes de una empresa de telecomunicaciones llamada Interconnect para anticiparse a posibles bajas. Con esta información; la empresa podrá ofrecer promociones y planes personalizados a los usuarios que muestren señales de querer cancelar sus servicios. Para ello, se han recopilado datos personales y de suscripción de los clientes, lo que permitirá el análisis para desarrollar modelos predictivos que optimicen las estrategias de retención."
 
@@ -19,11 +19,11 @@ Los datos consisten en archivos obtenidos de diferentes fuentes:
 - phone.csv — información sobre los servicios telefónicos.
 En cada archivo, la columna customerID (ID de cliente) contiene un código único asignado a cada cliente. La información del contrato es válida a partir del 1 de febrero de 2020.
 # Habilidades técnicas
-- Python
--	Pandas
--	Numpy
--	Matplotlib
--	Scikit-learn
+- `Python`
+-	`Pandas`
+-	`Numpy`
+-	`Matplotlib`
+-	`Scikit-learn`
 
 
 # Conclusión General
