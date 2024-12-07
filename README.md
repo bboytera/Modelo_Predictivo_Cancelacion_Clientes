@@ -13,11 +13,11 @@ El equipo de marketing de Interconnect ha recopilado algunos de los datos person
 # Descripción de los datos
 Los datos consisten en archivos obtenidos de diferentes fuentes:
 
-- contract.csv — información del contrato;
-- personal.csv — datos personales del cliente;
-- internet.csv — información sobre los servicios de Internet;
-- phone.csv — información sobre los servicios telefónicos.
-En cada archivo, la columna customerID (ID de cliente) contiene un código único asignado a cada cliente. La información del contrato es válida a partir del 1 de febrero de 2020.
+- `contract.csv` — información del contrato;
+- `personal.csv` — datos personales del cliente;
+- `internet.csv` — información sobre los servicios de Internet;
+- `phone.csv` — información sobre los servicios telefónicos.
+que estan en el archivo `datasets_final_provider.csv`
 # Habilidades técnicas
 - `Python`
 -	`Pandas`
