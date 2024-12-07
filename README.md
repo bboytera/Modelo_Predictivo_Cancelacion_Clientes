@@ -17,7 +17,8 @@ Los datos consisten en archivos obtenidos de diferentes fuentes:
 - `personal.csv` — datos personales del cliente;
 - `internet.csv` — información sobre los servicios de Internet;
 - `phone.csv` — información sobre los servicios telefónicos.
-que estan en el archivo `datasets_final_provider.csv`
+  
+Estan en el archivo `datasets_final_provider.csv`
 # Habilidades técnicas
 - `Python`
 -	`Pandas`
